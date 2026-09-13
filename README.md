@@ -240,4 +240,4 @@ This repository serves as the official landing page for TikTok Live Studio. The 
 **Get the most recent version of TikTok Live Studio today!**
 
 ---
-**Last updated:** 2026-09-12 22:08:04 UTC
+**Last updated:** 2026-09-13 00:46:34 UTC
